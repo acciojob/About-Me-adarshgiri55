@@ -1,1 +1,21 @@
-
+body{
+	margin:none;
+	padding:0px;
+}
+.div1,.div2,.div-1-a,.div-1-b{
+	display:inline-block;
+}
+img{
+	margin:40px;
+	postion:absolute;
+	margin-top: 0px;
+	padding:0px;
+}
+.div2{
+	width:50%;
+	display:inline-block;
+}
+.div-1-b{
+	postion:absolute;
+	margin-top: 0px;
+}
